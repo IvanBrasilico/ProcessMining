@@ -3,3 +3,4 @@
 *.xes
 */.ipynb_checkpoints
 .idea
+/desafio_bpi_2012/*xml
